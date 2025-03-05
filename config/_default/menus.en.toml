@@ -17,8 +17,8 @@ weight = 1
 #weight = 3
 
 [[main]]
-name = "Classes"
-url = "/classes"
+name = "Racing"
+url = "/class"
 weight = 3
 
 [[main]]
@@ -27,15 +27,15 @@ url = "/track"
 weight = 4
 
 [[main]]
-name = "Gallery and video"
+name = "Gallery"
 url = "/media"
 weight = 5
 
 
-[[main]]
-name = "Example formats"
-url = "/elements"
-weight = 6
+#[[main]]
+#name = "Example formats"
+#url = "/elements"
+#weight = 6
 
 #[[main]]
 #weight = 6
@@ -68,17 +68,8 @@ weight = 6
 
 
 # footer menu
-[[footer]]
-name = "About"
-url = "/about"
-weight = 1
+#[[footer]]
+#name = "About"
+#url = "/about"
+#weight = 1
 
-[[footer]]
-name = "Elements"
-url = "/elements"
-weight = 2
-
-[[footer]]
-name = "Privacy Policy"
-url = "/privacy-policy"
-weight = 3
