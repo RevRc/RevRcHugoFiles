@@ -6,44 +6,65 @@ name = "Home"
 url = "/"
 weight = 1
 
-[[main]]
-name = "About"
-url = "/about"
-weight = 2
+#[[main]]
+#name = "About"
+#url = "/about"
+#weight = 2
+
+#[[main]]
+#name = "Elements"
+#url = "/elements"
+#weight = 3
 
 [[main]]
-name = "Elements"
-url = "/elements"
+name = "Classes"
+url = "/classes"
 weight = 3
 
 [[main]]
+name = "Our Track"
+url = "/track"
 weight = 4
-name = "Pages"
 
 [[main]]
-parent = "Pages"
-name = "Blog"
-url = "/blog"
+name = "Gallery and video"
+url = "/media"
+weight = 5
+
 
 [[main]]
-parent = "Pages"
-name = "Contact"
-url = "/contact"
+name = "Example formats"
+url = "/elements"
+weight = 6
 
-[[main]]
-parent = "Pages"
-name = "Authors"
-url = "/authors"
+#[[main]]
+#weight = 6
+#name = "Pages"
 
-[[main]]
-parent = "Pages"
-name = "Categories"
-url = "/categories"
+#[[main]]
+#parent = "Pages"
+#name = "Blog"
+#url = "/blog"
 
-[[main]]
-parent = "Pages"
-name = "404 Page"
-url = "/404"
+#[[main]]
+#parent = "Pages"
+#name = "Contact"
+#url = "/contact"
+
+#[[main]]
+#parent = "Pages"
+#name = "Authors"
+#url = "/authors"
+
+#[[main]]
+#parent = "Pages"
+#name = "Categories"
+#url = "/categories"
+
+#[[main]]
+#parent = "Pages"
+#name = "404 Page"
+#url = "/404"
 
 
 # footer menu

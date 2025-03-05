@@ -2,8 +2,8 @@
 # favicon module: https://github.com/gethugothemes/hugo-modules/tree/master/images#favicon-implementation
 favicon = "images/favicon.png"
 # logo module: https://github.com/gethugothemes/hugo-modules/tree/master/images#logo-implementation
-logo = "images/logo.png"
-logo_darkmode = "images/logo-darkmode.png"
+logo = "images/logo4.png"
+logo_darkmode = "images/logo4.png.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
 logo_width = "160px"
@@ -11,12 +11,12 @@ logo_height = "32px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Hugoplate"
+logo_text = "RevRc"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
-theme_switcher = true
-theme_default = "system" # available options [light/dark/system]
+theme_switcher = false
+theme_default = "dark" # available options [light/dark/system]
 # Main Sections
 mainSections = ["blog"]
 # contact form action
@@ -36,15 +36,15 @@ enable = false
 preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation button
-[navigation_button]
-enable = true
-label = "get a quote"
-link = "contact"
+#[navigation_button]
+#enable = true
+#label = "get a quote"
+#link = "contact"
 
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
 [search]
-enable = true
+enable = false
 primary_color = "#121212"
 include_sections = ["blog"]
 show_image = true
@@ -62,10 +62,10 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
-twitter = "zeon_studio"
+keywords = ["Okanagan","Kelowna","RC", "RevRC","Racing", "Remote Control","Racing", "Remote Control","Offroad","Outdoor"]
+description = "Rev RC"
+author = "Andrew Pulsipher"
+#twitter = "zeon_studio"
 image = "images/og-image.png"
 
 
