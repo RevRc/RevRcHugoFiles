@@ -1,4 +1,4 @@
 [submodule "RevRc"]
-	path = RevRc
+	path = public
 	url = https://github.com/RevRc/RevRc.git
 	branch = master
