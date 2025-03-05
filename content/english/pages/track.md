@@ -11,9 +11,9 @@ draft: false
 
 ### Kelowna Track
 
-{{< gallery dir="images/gallery1" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< gallery dir="images/slider" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 
-<hr>
+
 {{< youtube nofrsiHw8us >}}
 
 
