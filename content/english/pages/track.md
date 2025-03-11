@@ -1,5 +1,5 @@
 ---
-title: "Track"
+title: "Track Pictures and videos"
 # meta title
 meta_title: ""
 # meta description
