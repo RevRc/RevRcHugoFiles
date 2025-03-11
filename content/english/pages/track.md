@@ -7,13 +7,14 @@ description: "Rc Racing Classes"
 # save as draft
 draft: false
 ---
-<hr>
-
 ### Kelowna Track
 
-{{< gallery dir="images/slider" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 
+{{< image src="images/001.JPG" caption="" alt="alter-text" height="" width="" position="left" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
+{{< image src="images/002.JPG" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
+{{< image src="images/003.JPG" caption="" alt="alter-text" height="" width="" position="right" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
 
+<hr>
 {{< youtube nofrsiHw8us >}}
 
 
