@@ -7,22 +7,6 @@
       <a class="navbar-brand block" href="{{ site.Home.RelPermalink }}">
         {{ partial "logo" }}
       </a>
-      <ul class="social-icons">
-        {{ range site.Data.social.main }}
-        <li>Want to join? Message us on Facebook</li>
-          <li>
-            <a
-             
-              target="_blank"
-              aria-label="{{ .name }}"
-              rel="nofollow noopener"
-              href="{{ .link | safeURL }}">
-              <i class="{{ .icon }}"></i>
-            </a>
-          </li>
-          
-        {{ end }}
-      </ul>
     </div>
     <!-- navbar toggler -->
     <input id="nav-toggle" type="checkbox" class="hidden" />

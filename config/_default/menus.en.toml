@@ -18,7 +18,7 @@ weight = 1
 
 [[main]]
 name = "Racing"
-url = "/class"
+url = "/racing"
 weight = 3
 
 [[main]]
@@ -28,7 +28,7 @@ weight = 5
 
 [[main]]
 name = "Gallery"
-url = "/media"
+url = "/gallery"
 weight = 6
 
 [[main]]
@@ -40,7 +40,7 @@ weight = 4
 #[[main]]
 #name = "Example formats"
 #url = "/elements"
-#weight = 6
+#weight = 7
 
 #[[main]]
 #weight = 6
