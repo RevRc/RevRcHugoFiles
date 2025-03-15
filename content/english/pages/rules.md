@@ -11,10 +11,11 @@ draft: false
 ### General Track Rules
 1. No Cursing please.
 2. Clean up after yourself.
-3. Respect for All Drivers: Treat all racers with respect. No aggressive or unsportsmanlike behavior will be tolerated.
-4. Track Access: Only authorized drivers and crew members are allowed on the track during racing. Spectators must remain in designated areas.
-5. Track Etiquette: Always give way to faster drivers. If you are lapped, stay off the racing line to avoid interfering with faster racers.
-6. Track Damage: If you accidentally damage the track (e.g., bumping a barrier), inform the race officials immediately for repairs.
+3. No Nitro!
+4. Respect for All Drivers: Treat all racers with respect. No aggressive or unsportsmanlike behavior will be tolerated.
+5. Track Access: Only authorized drivers and crew members are allowed on the track during racing. Spectators must remain in designated areas.
+6. Track Etiquette: Always give way to faster drivers. If you are lapped, stay off the racing line to avoid interfering with faster racers.
+7. Track Damage: If you accidentally damage the track (e.g., bumping a barrier), inform the race officials immediately for repairs.
 
 
 

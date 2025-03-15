@@ -22,12 +22,14 @@ Welcome to the RC Club! We offer various membership tiers to fit the needs of ou
 | ------- | :--------: | 
 | **Individual Membership**     | $60| 
 | Family Membership     |   $80   |   
-| Youth Membership (14-18) |  $25    |    
-| Kids Membership (Under 14) |   Free   |    
+| Youth Membership (Under 18) |  $25    |    
+   
  
 ###### Club Racing Fees 
 
-- **Members Fee:** $10 each class
+- **Under 14:** Free
+- **Ages 14-18:** $5 each class
+- **Adult Members Fee:** $10 each class
 - **Non-Members Fee:** $20 each class
 
 ###### Trophy Racing Fees 
