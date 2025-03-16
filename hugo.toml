@@ -19,7 +19,7 @@ defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false
 enableRobotsTXT = true
 
-disableKinds = ['taxonomy']
+disableKinds = ['taxonomy', 'term']
 
 ########################### Services #############################
 [services]
@@ -48,6 +48,8 @@ enable = true
 [[build.cachebusters]]
 source = 'assets/notwatching/hugo_stats\.json'
 target = 'css'
+
+
 
 ############################# Modules ############################
 [module]
