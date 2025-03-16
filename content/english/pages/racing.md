@@ -39,7 +39,7 @@ Welcome to the RC Club! We offer various membership tiers to fit the needs of ou
 - **Third class:** $10 
 
 
-Members are allowed on the track with almost any eletric RC with appropriate Tires.  (Non-aggressive tred)
+Members are allowed on the track with almost any eletric RC with appropriate Tires. (Non-aggressive tred)
 <hr> 
 
 ### Classes
