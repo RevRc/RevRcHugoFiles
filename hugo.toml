@@ -19,6 +19,8 @@ defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false
 enableRobotsTXT = true
 
+disableKinds = ['taxonomy']
+
 ########################### Services #############################
 [services]
 [services.googleAnalytics]
