@@ -6,7 +6,7 @@ banner:
   image: "/images/logo5.jpg"
   button:
     enable: true
-    label: "Want to Join?"
+    label: "Want to Join? Join us on facebook"
     link: "https://www.facebook.com/groups/953295803176489"
 
 # Features
