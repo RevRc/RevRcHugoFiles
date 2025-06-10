@@ -62,7 +62,7 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Okanagan","Kelowna","RC", "RevRC","Racing", "Remote Control","Racing", "Remote Control","Offroad","Outdoor"]
+keywords = ["Okanagan","Kelowna","RC", "RevRC","Racing", "Remote Control","Racing", "Remote Control","Offroad","Outdoor", "Rev RC"]
 description = "Rev RC an okanagan rc offroad racing club"
 author = "Andrew Pulsipher"
 #twitter = "zeon_studio"

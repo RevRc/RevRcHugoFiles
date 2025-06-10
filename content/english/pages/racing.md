@@ -3,7 +3,7 @@ title: "Racing"
 # meta title
 meta_title: ""
 # meta description
-description: "Rc Racing Classes"
+description: "Rc Racing Fees and classes"
 # save as draft
 draft: false
 ---

@@ -3,7 +3,7 @@ title: "Track Pictures and videos"
 # meta title
 meta_title: ""
 # meta description
-description: "Rc Racing Classes"
+description: "Rc Kelowna Track"
 # save as draft
 draft: false
 ---

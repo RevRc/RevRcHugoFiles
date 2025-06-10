@@ -3,7 +3,7 @@ title: "Gallery"
 # meta title
 meta_title: ""
 # meta description
-description: "Rc Racing Classes"
+description: "Rc Gallery"
 # save as draft
 draft: false
 ---
