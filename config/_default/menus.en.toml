@@ -36,6 +36,11 @@ name = "Rules"
 url = "/rules"
 weight = 4
 
+[[main]]
+name = "2025 Race Schedule"
+url = "/2025schedule"
+weight = 7
+
 
 #[[main]]
 #name = "Example formats"
